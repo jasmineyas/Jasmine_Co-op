@@ -12,6 +12,6 @@ Have you ever had an office thermosat fight where you are freezing while your co
 
 3. Day-ahead Hourly Natural Gas Consumption Prediction Model (Course Project)
 
-A model is created to predict day-ahead hourly natural gas consumption for potential natural gas demand response program in Austin, Texas using linear regression and simple neural networks in Python. [Pecan Street dataset] (https://www.pecanstreet.org/dataport/) is used. 
+A model is created to predict day-ahead hourly natural gas consumption for potential natural gas demand response program in Austin, Texas using linear regression and simple neural networks in Python. [Pecan Street dataset](https://www.pecanstreet.org/dataport/) is used. 
 
 
