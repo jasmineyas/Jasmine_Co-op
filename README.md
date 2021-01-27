@@ -1,7 +1,5 @@
 # Past Projects 
 
-Here are three past projects to showcase my understanding with machine learning and data processing. 
-
 1. White Wine Quality Prediction Model 
 
 A model is created to predict white wine quality. Following an extensive EDA, a wide range of models were implemented and model interpretability was explored. The white wine dataset was retrieved from [UCL Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/wine+quality). 
